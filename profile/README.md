@@ -1,4 +1,4 @@
-<p align="center"><a href="https://neulabs.com" target="_blank"><img src="./img/logo-white.svg" width="50%"></a></p>
+<p align="center"><a href="https://neulabs.com" target="_blank"><img src="./img/logo.svg" width="50%"></a></p>
 
 *<p align="center">The platform that acquires, builds and scales global D2C brands</p>*
 
